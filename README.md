@@ -97,7 +97,7 @@ Evaluate:
 
 ---
 
-## ⚠ Challenges
+# Challenges
 
 - Extremely low glucose concentration in saliva
 - Interference from uric acid and ascorbic acid
@@ -106,7 +106,7 @@ Evaluate:
 
 ---
 
-## 💡 Expected Outcomes
+# Expected Outcomes
 
 - Functional saliva glucose biosensor prototype
 - High sensitivity glucose detection
